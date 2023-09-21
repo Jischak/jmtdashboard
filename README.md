@@ -2,8 +2,8 @@
 Dasbor Penyewaan Sepeda Sederhana menggunakan framework Streamlit
 
 # Setup Environment
-conda create --name jmt_python python=3.9
-conda activate jmt_python
+conda create --name jmt_python python=3.9 <br>
+conda activate jmt_python <br>
 pip install numpy pandas scipy matplotlib seaborn streamlit babel
 
 # Run streamlit app
